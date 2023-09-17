@@ -1,0 +1,29 @@
+p{
+    color: rgba(15, 15, 14, 0.788);
+    background-color:   rgba(29, 236, 10, 0.945);
+    text-transform: capitalize;
+}
+ body{ 
+    background-color: rgb(76, 235, 221);
+    font-style: italic;
+
+}
+
+h2{
+    text-align: center !important;
+    color: blueviolet;
+    text-decoration-color: brown;
+    text-decoration-line: overline;
+    text-align: left;
+    font-style: italic;
+    
+}
+ h1{
+   text-align: center;
+   text-decoration-line: line-through;
+   text-decoration-color: black;
+   
+ }
+  h3{
+  text-align: center;
+ }
