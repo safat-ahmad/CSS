@@ -1,0 +1,9 @@
+#column3{
+    border: 2px solid red;
+    column-count: 4;
+    column-gap: 50px;
+    background-color: aqua;
+    height: 100px;
+    padding: 20px;
+    box-sizing: border-box;
+}

@@ -1,0 +1,13 @@
+#container{
+    width: 210px;
+    height: 250px;
+    border: 1px solid black;
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr ;
+    align-content: end;
+}
+#container > div {
+    width: 70px;
+    height: 70px;
+
+}
