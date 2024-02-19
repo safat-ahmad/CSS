@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    width: 300px;
+    border: 15px solid crimson;
+    padding: 50px;
+    margin: 50px;
+}
+
+.box1 {
+    margin-top: 60px;
+    border: 10px solid black;
+}
