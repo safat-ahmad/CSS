@@ -8,6 +8,7 @@ div {
     border: 15px solid crimson;
     padding: 50px;
     margin: 50px;
+    background-blend-mode: darken;
 }
 
 .box1 {
