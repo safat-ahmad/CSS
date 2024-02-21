@@ -1,0 +1,23 @@
+table {
+    width: 60%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+}
+
+table,
+td,
+th {
+    border: 1px solid black;
+    text-align: left;
+    padding: 10px;
+    margin: 50px;
+}
+
+tr:nth-child(odd) {
+    background-color: #dddddd;
+}
+
+h1 {
+    margin-left: 30%;
+    margin-bottom: 10px;
+}
